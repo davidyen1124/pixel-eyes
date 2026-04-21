@@ -2,7 +2,7 @@
 
 # Pixel Eyes
 
-[GitHub Repo](https://github.com/davidyen1124/pixel-eyes) • [Live Demo](https://davidyen1124.github.io/pixel-eyes/)
+[Live Demo](https://davidyen1124.github.io/pixel-eyes/)
 
 A very serious computer vision project for the modern age: open your webcam, detect your face, and slap a pixelated censor bar across your eyes in real time.
 
